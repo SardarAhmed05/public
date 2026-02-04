@@ -1,0 +1,11 @@
+init
+add/commit
+log
+switch/checkout
+branch
+merge
+clone
+push
+pull
+fetch
+remote
